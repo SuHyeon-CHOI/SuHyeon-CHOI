@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Happily%20Ever%20After&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Happily%20Ever%20After&fontSize=60&fontColor=ffffff)
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
